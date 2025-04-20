@@ -6,14 +6,6 @@ Airways is a fully functional, responsive, and visually rich web application des
 
 ---
 
-## 📸 Screenshots
-
-![Homepage Screenshot](./screenshots/homepage.png)
-![Booking Page Screenshot](./screenshots/booking.png)
-*(Add your screenshots inside a `/screenshots` folder)*
-
----
-
 ## 🎯 Key Features
 
 - ✅ **Flight Search & Booking** – Users can search, select, and book flights easily.
